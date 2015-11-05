@@ -8,7 +8,7 @@ and open the template in the editor.
 <!DOCTYPE order SYSTEM 'bonanza.dtd'>
 
 <order type="eatin">
-    <customer>Vincent</customer>
+    <customer>Jim</customer>
     <burger>
         <patty type="turkey"/>
         <cheeses top="gruyere"/>
